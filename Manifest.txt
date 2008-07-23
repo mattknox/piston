@@ -11,6 +11,7 @@ lib/piston.rb
 lib/piston/cli.rb
 lib/piston/commands.rb
 lib/piston/commands/base.rb
+lib/piston/commands/convert.rb
 lib/piston/commands/import.rb
 lib/piston/commands/lock_unlock.rb
 lib/piston/commands/update.rb
